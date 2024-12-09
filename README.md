@@ -5,4 +5,6 @@ todo lo que un CRUD clasico y listando los datos dentro del mismo software
 
 <h1>Demostracion:</h1>
 
-![Demostracion](Demostracion.mp4)
+![Demostracion](https://github.com/user-attachments/assets/64e11971-4922-47cb-8884-cdbddc19073d)
+
+
